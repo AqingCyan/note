@@ -9,7 +9,7 @@ export default {
     nav: [
         {
             text: '首页',
-            link: '/',
+            link: '/note',
             icon: 'czs-home-l'
         },
         {
