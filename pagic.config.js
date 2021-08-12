@@ -4,7 +4,7 @@ export default {
     plugins: ['blog'],
     title: 'Cyan的博客',
     root: '/note/',
-    description: '🖖欢迎来到我的博客，做一些笔记和感想',
+    description: '🖖欢迎来到我的博客，做一些笔记和感想，是一个普通的前端开发',
     github: 'https://github.com/AqingCyan',
     nav: [
         {
