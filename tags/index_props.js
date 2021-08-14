@@ -34,13 +34,13 @@ export default {
                 "title": "我为业务封装了一个外呼SDK",
                 "link": "posts/20210814new-webcall-sdk.html",
                 "date": "2021-08-13T18:26:54.000Z",
-                "updated": "2021-08-14T10:14:53.000Z",
+                "updated": "2021-08-14T17:34:39.000Z",
                 "author": "AqingCyan",
                 "contributors": [
                     "AqingCyan"
                 ],
                 "excerpt": "在公司的业务中有一些场景有用到外呼通话的，目前采用的是第三方外呼SDK + 私有化外呼服务 + 服务端研发的外呼中心的模式， 初版外呼就这么颤颤巍巍的跑过了挺长时间。但随着一些配合业务的更新迭代，遇到了不得不解决的问题。...",
-                "cover": "../assets/old-webcall.png"
+                "cover": "../assets/20210814new-webcall-sdk/old-webcall.png"
             }
         ],
         "categories": [],
