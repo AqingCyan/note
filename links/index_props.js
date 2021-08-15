@@ -34,7 +34,7 @@ export default {
                 "title": "我为业务封装了一个外呼SDK",
                 "link": "posts/20210814new-webcall-sdk.html",
                 "date": "2021-08-13T18:26:54.000Z",
-                "updated": "2021-08-14T17:34:39.000Z",
+                "updated": "2021-08-15T11:16:29.000Z",
                 "author": "AqingCyan",
                 "contributors": [
                     "AqingCyan"
