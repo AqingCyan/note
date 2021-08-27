@@ -1,0 +1,74 @@
+baseURL: "http://example.org/"
+languageCode: "zh-cn"
+paginate: 5
+title: "Cyan's Note"
+theme: "PaperMod"
+
+params:
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod]
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ExampleSite
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  homeInfoParams:
+    Title: "Hi 你好啊 👋"
+    Content: >
+      Welcome to demo of hugo's theme PaperMod.
+      - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+      - Do give a 🌟 on Github !
+      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+
+  socialIcons:
+    - name: email
+      url: "https://twitter.com/"
+    - name: qq
+      url: "https://stackoverflow.com"
+    - name: github
+      url: "https://github.com/"
+
+  # for search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
