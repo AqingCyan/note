@@ -1,4 +1,4 @@
-baseURL: "http://example.org/"
+baseURL: "https://aqingcyan.github.io/note/"
 languageCode: "zh-cn"
 paginate: 5
 title: "Cyan's Note"
