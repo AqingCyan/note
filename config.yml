@@ -5,7 +5,7 @@ title: "Cyan's Note"
 theme: "PaperMod"
 
 params:
-  description: "ExampleSite description"
+  description: "Cyan's Notes"
   keywords: [Blog, Portfolio, PaperMod]
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -40,18 +40,14 @@ params:
   homeInfoParams:
     Title: "Hi 你好啊 👋"
     Content: >
-      Welcome to demo of hugo's theme PaperMod.
-      - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-      - Do give a 🌟 on Github !
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+      欢迎来到我的博客，这里记录了我的一些碎碎念和技术文章，大多数可能是废话吧。
+      如果你想交流欢迎发送邮件到我的邮箱，或是直接在 github 上给该仓库提 `issue`。
 
   socialIcons:
     - name: email
-      url: "https://twitter.com/"
-    - name: qq
-      url: "https://stackoverflow.com"
+      url: "1929667379@qq.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/AqingCyan"
 
   # for search
   fuseOpts:
